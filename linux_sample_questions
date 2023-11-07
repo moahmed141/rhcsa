@@ -1,0 +1,1 @@
+Question: You are working on a Red Hat Enterprise Linux 9 system, and you need to create a new user named "john" with a home directory of "/home/john." Additionally, this user should belong to the "developers" group. How would you accomplish this?
